@@ -1,3 +1,4 @@
+Tốt mạnh
 CREATE DATABASE QLThuVien
 USE [QLThuVien]
 GO
